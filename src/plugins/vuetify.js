@@ -17,7 +17,12 @@ export default new Vuetify({
         error: '#FF5252',
         info: '#2196F3',
         success: '#4CAF50',
-        warning: '#FFC107'
+        warning: '#FFC107',
+        raisin_c: '#272932',
+        crayola_c: '#F05D5E',
+        skobeloff_c: '#0F7173',
+        indigodye_c: '#0D3B66',
+        aliceblue_c: '#E7ECEF'
       }
     }
   },
