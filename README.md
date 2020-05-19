@@ -1,6 +1,6 @@
 # Currency-Exchange App
 
-## [Preview](https://currency-exchange-by-willy.netlify.app/)
+### [Preview](https://currency-exchange-by-willy.netlify.app/)
 
 Made with:
 
