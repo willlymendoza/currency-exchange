@@ -48,7 +48,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Add an end-point
 
-Once you have finished the previous steps, you need to add to the file found in services / currency.js the address that you have configured according to the installation of the aforementioned back-end,this file should look like this:
+Once you have finished the previous steps, you need to add to the file found in services/currency.js the address that you have configured according to the installation of the aforementioned back-end,this file should look like this:
 
 ```
 const apiClient = axios.create({
