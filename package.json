@@ -12,7 +12,7 @@
     "core-js": "^3.6.4",
     "firebase": "^7.14.2",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
     "vuefire": "^2.2.2",
